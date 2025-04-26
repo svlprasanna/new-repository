@@ -1,0 +1,4 @@
+hello all
+this is lakshmi mohan
+am here to teach you devops with aws
+thank you all
